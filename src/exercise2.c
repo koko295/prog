@@ -8,7 +8,7 @@ int main(void) {
         }
     }
     for (int i = 9; i >= 0; i--) {
-        printf("%.0f", numbers[i]);
+        printf("%.3f", numbers[i]);
         if (i > 0) {
             printf(" ");
         }
