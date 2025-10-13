@@ -11,7 +11,7 @@ int main(void) {
     }
 
     double srdarif = sum / 10.0;
-    printf("%.2f\n", srdarif);
+    printf("%.3f\n", srdarif);
 
     return 0;
 }
